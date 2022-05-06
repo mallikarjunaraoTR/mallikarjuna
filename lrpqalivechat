@@ -8,8 +8,8 @@
 	.embeddedServiceHelpButton .helpButton .uiButton:focus {
 		outline: 1px solid #005290;
 	}
-	.liveAgentChatLable {
-		color: rgb(64, 64, 64) !important;
+	.liveAgentChatLable .uiInput  {
+		color: rgb(0, 64, 0) !important;
 	    font-family: "Knowledge2017", "Helvetica Neue", "Arial", sans-serif !important;
 	    font-size: 1rem !important;
 	    line-height: 1.5 !important;
