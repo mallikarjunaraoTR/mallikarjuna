@@ -9,15 +9,15 @@ Hello World
 		outline: 1px solid #005290;
 	}
 	.uiLabel{
-		color: rgb(64, 64, 64);
-	    font-family: "Knowledge2017", "Helvetica Neue", "Arial", sans-serif;
-	    font-size: 1rem;
-	    line-height: 1.5;
-	    display: block;
-	    font-size: 16px;
-	    font-size: 1rem;
-	    font-weight: 500;
-	    margin: 0 0 0.375rem;
+		color: rgb(64, 64, 64) !important;
+	    font-family: "Knowledge2017", "Helvetica Neue", "Arial", sans-serif !important;
+	    font-size: 1rem !important;
+	    line-height: 1.5 !important;
+	    display: block !important;
+	    font-size: 16px !important;
+	    font-size: 1rem !important;
+	    font-weight: 500 !important;
+	    margin: 0 0 0.375rem !important;
 	
 	}
 </style>
