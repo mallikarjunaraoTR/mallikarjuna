@@ -1,5 +1,5 @@
 <html>
-<div class="liveAgentChatLable"> Chat Preview Two</div>
+<div class="liveAgentChatLable"> Chat Preview Three</div>
 <style type='text/css'>
 	.embeddedServiceHelpButton .helpButton .uiButton {
 		background-color: #005290;
@@ -8,7 +8,7 @@
 	.embeddedServiceHelpButton .helpButton .uiButton:focus {
 		outline: 1px solid #005290;
 	}
-	.liveAgentChatLable .uiInput  {
+	.liveAgentChatLable .uiLabel  {
 		color: rgb(0, 64, 0) !important;
 	    font-family: "Knowledge2017", "Helvetica Neue", "Arial", sans-serif !important;
 	    font-size: 1rem !important;
