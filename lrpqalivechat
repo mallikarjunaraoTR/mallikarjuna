@@ -20,6 +20,18 @@ Hello World
 	    margin: 0 0 0.375rem !important;
 	
 	}
+	.liveAgentSendButton {
+		display: block;
+		width: 60px;
+		height: 31px;
+		padding: 0 0 3px;
+		position: absolute;
+		top: 0;
+		right: -67px;
+		background-color: #fa6400;
+		    border-color: #fa6400;
+		    color: #fff;
+		}
 </style>
 
 <script type='text/javascript' src='https://service.force.com/embeddedservice/5.0/esw.min.js'></script>
